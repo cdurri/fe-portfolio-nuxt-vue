@@ -1,19 +1,17 @@
 <template>
   <div>
     <global-header />
-    Home
+    Project
   </div>
 </template>
 
 <script>
-import Logo from '~/components/logo/Logo.vue'
 import GlobalHeader from '~/components/global-header/GlobalHeader.vue'
 
 export default {
-  components: {
-    Logo,
-    GlobalHeader,
-  }
+    components: {
+        GlobalHeader,
+    }
 }
 </script>
 
