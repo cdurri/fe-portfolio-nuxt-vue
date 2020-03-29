@@ -1,7 +1,7 @@
 <template>
   <div>
     <global-header />
-    Home
+    Homeeeee
   </div>
 </template>
 
