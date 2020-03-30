@@ -6,6 +6,12 @@
                     <img class="is-rounded" src="~/assets/cian_icon_bw.jpg" height="96">
                 </figure>
             </a>
+
+             <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
         </div>
     </nav>
 </template>
