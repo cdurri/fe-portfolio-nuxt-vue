@@ -12,31 +12,30 @@
                 <span aria-hidden="true"></span>
                 <span aria-hidden="true"></span>
             </a>
+        </div>
 
-            <div id="navbarBasicExample" class="navbar-menu">
-                <div class="navbar-start">
-                    <a class="navbar-item">
-                        HOME
-                    </a>
+        <div id="navbarBasicExample" class="navbar-menu">
+            <div class="navbar-end">
+                <a class="navbar-item">
+                    HOME
+                </a>
 
-                    <a class="navbar-item">
-                        PROJECTS
-                    </a>
+                <a class="navbar-item">
+                    PROJECTS
+                </a>
 
-                    <a class="navbar-item">
-                        SKILLS
-                    </a>
+                <a class="navbar-item">
+                    SKILLS
+                </a>
 
-                    <a class="navbar-item">
-                        ABOUT
-                    </a>
+                <a class="navbar-item">
+                    ABOUT
+                </a>
 
-                    <a class="navbar-item">
-                        CONTACT
-                    </a>
-                </div>
+                <a class="navbar-item">
+                    CONTACT
+                </a>
             </div>
-
         </div>
     </nav>
 </template>
