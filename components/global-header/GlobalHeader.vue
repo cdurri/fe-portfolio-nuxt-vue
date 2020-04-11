@@ -16,23 +16,23 @@
 
         <div id="navbarBasicExample" class="navbar-menu">
             <div class="navbar-end">
-                <a class="navbar-item">
+                <a class="navbar-item link--hover">
                     HOME
                 </a>
 
-                <a class="navbar-item">
+                <a class="navbar-item link--hover">
                     PROJECTS
                 </a>
 
-                <a class="navbar-item">
+                <a class="navbar-item link--hover">
                     SKILLS
                 </a>
 
-                <a class="navbar-item">
+                <a class="navbar-item link--hover">
                     ABOUT
                 </a>
 
-                <a class="navbar-item">
+                <a class="navbar-item link--hover">
                     CONTACT
                 </a>
             </div>
