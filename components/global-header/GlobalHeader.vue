@@ -2,7 +2,7 @@
     <nav class="navbar has-background-white-bis navbar--global" role="navigation" aria-label="main navigation">
         <div class="navbar-brand navbar-brand-global">
             <a class="navbar-item" href="#">
-                <figure class="image is-96x96">
+                <figure class="image">
                     <img class="is-rounded" src="~/assets/cian_icon_bw.jpg" height="96">
                 </figure>
             </a>
@@ -41,7 +41,17 @@
 </template>
 
 <style scoped lang="scss">
+@import '~assets/scss/main.scss';
+
+
     .navbar-item {
+        @media screen and (max-width: $tablet - 1px) {
+            .image {
+                height: 64px;
+                width: 64px;
+            }
+         }
+        
         img {
             max-height: 96px;
         }
