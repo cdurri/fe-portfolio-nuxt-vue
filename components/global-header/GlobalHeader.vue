@@ -55,6 +55,9 @@
         img {
             max-height: 96px;
         }
+        &.link--hover:hover {
+            color: $orange;
+        }
     }
 
     .navbar--global {
