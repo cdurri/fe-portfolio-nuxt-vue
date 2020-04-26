@@ -50,11 +50,19 @@
                 height: 64px;
                 width: 64px;
             }
-         }
-        
+        }
+
+        @media screen and (min-width: $tablet) {
+            .image {
+                height: 94px;
+                width: 94px;
+            }
+        }
+
         img {
             max-height: 96px;
         }
+        
         &.link--hover:hover {
             color: $orange;
         }
